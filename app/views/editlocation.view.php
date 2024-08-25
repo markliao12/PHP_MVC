@@ -52,7 +52,7 @@
             </ul>
         </footer>
     </div>
-    <script src="https://maps.googleapis.com/maps/api/js?libraries=places&callback=initAutocomplete&language=nl&output=json&key=AIzaSyBisY_3sQZ2Vqx1hxuyuF3gSyweCeg_2po" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=places&callback=initAutocomplete&language=nl&output=json&key=you key" async defer></script>
     <script type="text/javascript">
         var autocomplete = null;
         var componentForm = {
